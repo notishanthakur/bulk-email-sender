@@ -13,9 +13,10 @@ This is a simple Python script to send bulk emails using your email id and a csv
   1. Clone the repository using `git clone https://github.com/notishanthakur/bulk-email-sender`
   2. Navigate to the folder using `cd bulk-email-sender`
   3. In .env, add your credentials
-  4. According to the input.csv, fill in the data (refer to customization)
-  5. Install python-dotenv using `pip install python-dotenv`
-  6. Run the script using python3 `python3 script.py`
+  4. According to the input.csv, fill in the data as mentioned(refer to customization)
+  5. Add your certificates in a folder named `certificates`
+  6. Install python-dotenv using `pip install python-dotenv`
+  7. Run the script using python3 `python3 script.py`
 
 # Customization
   Fork the repo and modify script.py according to your requirements (easy to read and modify) <br>
