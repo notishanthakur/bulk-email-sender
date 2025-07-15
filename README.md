@@ -7,7 +7,13 @@ This is a simple Python script to send bulk emails using your email id and a csv
   1. Enable 2FA
   2. Go to https://myaccount.google.com/apppasswords and generate an app password
   3. Use this password in .env
-  4. Accordingly select smtp and port in .env
+  4. Accordingly select smtp in .env
+
+### For Outlook
+  1. Enable MFA
+  2. Go to https://mysignins.microsoft.com/security-info, click on Add sign-in method, and generate an app password
+  3. Use this password in .env
+  4. Accordingly select smtp in .env
   
 ## On WSL/LINUX based terminal
   1. Clone the repository using `git clone https://github.com/notishanthakur/bulk-email-sender`
