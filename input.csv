@@ -1,3 +1,3 @@
-﻿Email,Full Name,Competition,Position,Certificate,Event
-,Ishan,,,Link1,
-,Sujal,,,Link2,
+﻿Email,Full Name,Competition,Position(use strings like participating or securing first position),Event,Certificate(add filename with extension as saved in certificates folder)
+,,,,,
+,,,,,
